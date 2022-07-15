@@ -1,7 +1,7 @@
 title: A Song of Ice and Fire: Quotes
 author: alaameskine
 email: al2a.meskine@gmail.com
-theme: minima
+theme: jekyll-theme-tactile
 description: > # this means to ignore newlines until "baseurl:"
   This new site contains some of the mythical quotes in the Game of Thrones universe, whether it's from the TV show
   or the exceptionally well-written books by George R R Martin.
