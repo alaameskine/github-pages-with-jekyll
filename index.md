@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+---
+title: A Song of Ice and Fire : Quotes"
+---
 
-You can use the [editor on GitHub](https://github.com/alaameskine/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+“The man who passes the sentence should swing the sword. If you would take a man's life, you owe it to him to look into his eyes and hear his final words. And if you cannot bear to do that, then perhaps the man does not deserve to die.”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“What is honor compared to a woman's love? What is duty against the feel of a newborn son in your arms . . . or the memory of a brother's smile? Wind and words. Wind and words. We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy.”
 
-### Markdown
+“Oh, my sweet summer child," Old Nan said quietly, "what do you know of fear?
+Fear is for the winter, my little lord, when the snows fall a hundred feet
+deep and the ice wind comes howling out of the north. Fear is for the long
+night, when the sun hides its face for years at a time, and little children
+are born and live and die all in darkness while the direwolves grow gaunt and
+hungry, and the white walkers move through the woods”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alaameskine/github-pages-with-jekyll/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+“Remember this, boy. All dwarfs may be bastards, yet not all bastards need be dwarfs." And with that he turned and sauntered back into the feast, whistling a tune. When he opened the door, the light from within threw his shadow clear across the yard, and for just a moment Tyrion Lannister stood tall as a king.”
