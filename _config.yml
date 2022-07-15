@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: A Song of Ice and Fire: Quotes
+author: alaameskine
+email: al2a.meskine@gmail.com
+theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This new site contains some of the mythical quotes in the Game of Thrones universe, whether it's from the TV show
+  or the exceptionally well-written books by George R R Martin.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: AlaaMeskine # DO NOT include the @ character, or else the build will fail!
+github_username:  alaameskine # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
