@@ -14,3 +14,5 @@ are born and live and die all in darkness while the direwolves grow gaunt and
 hungry, and the white walkers move through the woods”
 
 “Remember this, boy. All dwarfs may be bastards, yet not all bastards need be dwarfs." And with that he turned and sauntered back into the feast, whistling a tune. When he opened the door, the light from within threw his shadow clear across the yard, and for just a moment Tyrion Lannister stood tall as a king.”
+
+“He did not know which was more painful, the waking or the sleeping. When he slept, he dreamed: dark disturbing dreams of blood and broken promises. When he woke, there was nothing to do but think, and his waking thoughts were worse than nightmares.”
